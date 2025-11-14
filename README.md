@@ -11,9 +11,9 @@ This project lets you slide through time across multiple cities and watch each c
 
 ## 📸 Preview
 
-https://github.com/user-attachments/assets/79e28ff0-ebf4-42f5-9d55-03a6c76c537b
-
-
+<p align="center">
+  <img src="https://github.com/mahdidavoodi7/expo-world-clock/blob/main/preview.gif?raw=true" alt="Preview" />
+</p>
 
 
 
